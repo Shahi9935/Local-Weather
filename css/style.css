@@ -1,0 +1,20 @@
+body  {
+    background-image: url("http://wallpapercave.com/wp/b1YkCph.jpg");
+}
+.curr
+{
+  color:white;
+  
+  width:600px;
+  text-align:center;
+  margin:1% auto auto auto;
+}
+
+.left{
+  font-family:Comic Sans MS;
+  color:white;
+ width:600px;
+  text-align:center;
+  margin:2% auto auto auto;
+  
+}
